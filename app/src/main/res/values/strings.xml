@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MobileApps</string>
+    <string name="register">Daftar</string>
+    <string name="login">Login</string>
+    <string name="daftar_akun">Belum memiliki akun? Klik untuk
+        <font color="#E85628"><b>Daftar</b></font>
+    </string>
+</resources>
